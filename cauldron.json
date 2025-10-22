@@ -1,1 +1,27 @@
-{"schemaVersion":"3.0.0","nativeApps":[]}
+{
+  "schemaVersion": "3.0.0",
+  "nativeApps": [
+    {
+      "name": "MyNativeApp",
+      "platforms": [
+        {
+          "name": "ios",
+          "versions": [
+            {
+              "name": "1.0.0",
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [],
+                "nativeDeps": []
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
